@@ -34,7 +34,7 @@ Welcome to my GitHub corner! I'm a passionate AI/ML enthusiast and backend devel
 - **Document-Based RAG System:** Upload PDFs and get contextual answers using LLaMA3, FAISS, and FastAPI.
 - **Personal AI Chatbot:** A digital twin learning from a personalized knowledge base, with future graph integration. (Ongoing)
 - **Sentiment Analysis System:** LSTM-based model analyzing customer feedback (SIH project).
-- - **₿ BitPredict:** *Industry-grade Bitcoin price prediction system* 📉📈 — built with deep learning, real-time indicators, and serious market analysis vibes. No crystal balls, just data and code. (Ongoing)
+- **₿ BitPredict:** *Industry-grade Bitcoin price prediction system* 📉📈 — built with deep learning, real-time indicators, and serious market analysis vibes. No crystal balls, just data and code. (Ongoing)
 
 ## GitHub Stats 📊
 
