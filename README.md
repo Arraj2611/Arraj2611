@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Rajeev]
+# Hey there! 👋 I'm Rajeev,
 
 Welcome to my GitHub corner! I'm a passionate AI/ML enthusiast and backend developer on a mission to build intelligent systems that make a difference. Let's embark on this tech journey together! 🚀
 
