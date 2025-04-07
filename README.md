@@ -24,7 +24,7 @@ Welcome to my GitHub corner! I'm a passionate AI/ML enthusiast and backend devel
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFDA00?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
@@ -32,8 +32,9 @@ Welcome to my GitHub corner! I'm a passionate AI/ML enthusiast and backend devel
 ## Featured Projects 🌟
 
 - **Document-Based RAG System:** Upload PDFs and get contextual answers using LLaMA3, FAISS, and FastAPI.
-- **Personal AI Chatbot:** A digital twin learning from a personalized knowledge base, with future graph integration.
+- **Personal AI Chatbot:** A digital twin learning from a personalized knowledge base, with future graph integration. (Ongoing)
 - **Sentiment Analysis System:** LSTM-based model analyzing customer feedback (SIH project).
+- - **₿ BitPredict:** *Industry-grade Bitcoin price prediction system* 📉📈 — built with deep learning, real-time indicators, and serious market analysis vibes. No crystal balls, just data and code. (Ongoing)
 
 ## GitHub Stats 📊
 
