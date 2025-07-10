@@ -45,7 +45,7 @@ Welcome to my GitHub corner! I'm a passionate AI/ML enthusiast and backend devel
 
 [![Email](https://img.shields.io/badge/rajeevaken03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajeevaken03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajeevaken-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeevaken/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arraj2611.streamlit.app-ff69b4?style=flat-square&logo=google-chrome&logoColor=white)](https://arraj2611.streamlit.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajeevaken.dev-ff69b4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.rajeevaken.dev/)
 
 ---
 
